@@ -6,8 +6,10 @@
 * Ubuntu/Debian: 
 ```
 apt -y update && apt -y install php
+bash start.sh
 ```
 * Arch/Manjaro:
 ```
 pacman -Syu && pacman -S php
+bash start.sh
 ```
