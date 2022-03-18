@@ -3,6 +3,11 @@
 * Author - https://vk.com/ddosnik *
 * Website - https://ddosnik.site/ *
 * Installation guide: *
+* Ubuntu/Debian: 
 ```
-apt-get install -y php
+apt -y update && apt -y install php
+```
+* Arch/Manjaro:
+```
+pacman -Syu && pacman -S php
 ```
